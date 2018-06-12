@@ -1,0 +1,4 @@
+6.-https://github.com/MeliZamm/Practica_4.git
+9.-Para obtener el elemento con el id especificado.
+10.-Es el id que se le esta especificando en la etiqueta con el nombre especificado.
+11.- 
